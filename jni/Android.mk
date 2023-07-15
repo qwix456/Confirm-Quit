@@ -50,7 +50,6 @@ LOCAL_C_INCLUDES += $(LOCAL_PATH)/include/KittyMemory \
 
 
 LOCAL_SRC_FILES := 	src/main.cpp \
-					src/custom-layer.cpp \
 					src/ExitLayer.cpp \
 					src/KittyMemory/KittyMemory.cpp \
 					src/KittyMemory/KittyUtils.cpp \
